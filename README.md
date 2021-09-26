@@ -14,13 +14,14 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 
 ### print("Let's get it started!")
 
-#### 
+#### [Easy / Basic Challenges](#easy)
+#### [Medium / Intermediate Challenges](#medium)
 
 -------
 
 
 
-## 🙆🏻‍♀️ Easy / Basic Challenges
+## 🙆🏻‍♀️ Easy / Basic Challenges <a name="easy"></a>
 
 |SNo|Challenge Name|Solution|
 |---|---|---|
@@ -37,7 +38,7 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 
 
 
-## 🧐 Medium / Interediate Challenges
+## 🧐 Medium / Intermediate Challenges <a name="medium"></a>
 
 |SNo|Challenge Name|Solution|
 |---|---|---|
