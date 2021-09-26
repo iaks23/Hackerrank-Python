@@ -17,10 +17,10 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 -------
 
 
-|SNo|Challenge Name|Level|
-|---|---|---|
-|1|[Say "Hello World" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|Introduction|
-
+|SNo|Challenge Name|Solution|Level|
+|---|---|---|---|
+|1|[Say "Hello World" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Say%20%22Hello%20World%22/sol1.py)|Introduction-Easy|
+|2|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Python%20If-Else/if-else.py)|Basic-Easy|
 
 
 
