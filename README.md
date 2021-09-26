@@ -21,8 +21,7 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |---|---|---|---|
 |1|[Say "Hello World" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Say%20%22Hello%20World%22/sol1.py)|Introduction-Easy|
 |2|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Python%20If-Else/if-else.py)|Basic-Easy|
-
-
+|3|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Arithmetic%20Operators/Arithmetic.py)|Basic-Easy|
 
 
 
