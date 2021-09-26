@@ -14,6 +14,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 
 ### print("Let's get it started!")
 
+### Navigate To 🕹
+
 #### [Easy / Basic Challenges](#easy)
 #### [Medium / Intermediate Challenges](#medium)
 
