@@ -17,8 +17,10 @@ Solutions to the Python problems on Hackerrank. From 1 star to 5.
 -------
 
 
-|SNo|Challenge|Level
-|---|---|
+|SNo|Challenge Name|Level|
+|---|---|---|
+
+|1|[Say "Hello World" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|Introduction|
 
 
 
