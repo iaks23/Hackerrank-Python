@@ -14,15 +14,34 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 
 ### print("Let's get it started!")
 
+#### 
+
 -------
 
 
-|SNo|Challenge Name|Solution|Level|
-|---|---|---|---|
-|1|[Say "Hello World" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Say%20%22Hello%20World%22/sol1.py)|Introduction-Easy|
-|2|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Python%20If-Else/if-else.py)|Basic-Easy|
-|3|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Arithmetic%20Operators/Arithmetic.py)|Basic-Easy|
 
+## 🙆🏻‍♀️ Easy / Basic Challenges
+
+|SNo|Challenge Name|Solution|
+|---|---|---|
+|1|[Say "Hello World" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Say%20%22Hello%20World%22/sol1.py)|
+|2|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Python%20If-Else/if-else.py)|
+|3|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Arithmetic%20Operators/Arithmetic.py)|
+|4|[Python Division](https://www.hackerrank.com/challenges/python-division/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Python%20Division/division.py)|
+|5|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Loops/loops.py)|
+|6|[Print Function](https://www.hackerrank.com/challenges/python-print/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Print%20Function/print.py)|
+|7|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/List%20Comprehensions/listcomp.py)|
+|8|[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Find%20the%20Runner-Up%20Score!/runnerup.py)|
+|9|[Find The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Finding%20the%20percentage/percent.py)|
+|10|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/What's%20Your%20Name/name.py)|
+
+
+
+## 🧐 Medium / Interediate Challenges
+
+|SNo|Challenge Name|Solution|
+|---|---|---|
+|1|[Write A Function](https://www.hackerrank.com/challenges/write-a-function/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Write%20A%20Function/leapyear.py)|
 
 
 
