@@ -36,7 +36,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |7|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/List%20Comprehensions/listcomp.py)|
 |8|[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Find%20the%20Runner-Up%20Score!/runnerup.py)|
 |9|[Find The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Finding%20the%20percentage/percent.py)|
-|10|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/What's%20Your%20Name/name.py)|
+|10|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/What's%20Your%20Name/name.py
+|11|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/sWAP%20cASE/swapcase.py)|
 
 
 
