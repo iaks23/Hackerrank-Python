@@ -16,8 +16,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 
 ### Navigate To 🕹
 
-#### [Easy / Basic Challenges](#easy)
-#### [Medium / Intermediate Challenges](#medium)
+#### * [Easy / Basic Challenges](#easy)
+#### * [Medium / Intermediate Challenges](#medium)
 
 -------
 
