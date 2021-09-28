@@ -39,7 +39,7 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |10|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/What's%20Your%20Name/name.py)|
 |11|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/sWAP%20cASE/swapcase.py)|
 |12|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Mutations/mutations.py)|
-|12|[String Split & Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/String%20Split%20%26%20Join/splitjoin.py)|
+|13|[String Split & Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/String%20Split%20%26%20Join/splitjoin.py)|
 
 
 
