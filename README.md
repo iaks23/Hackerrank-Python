@@ -38,6 +38,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |9|[Find The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Finding%20the%20percentage/percent.py)|
 |10|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/What's%20Your%20Name/name.py)|
 |11|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/sWAP%20cASE/swapcase.py)|
+|12|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Mutations/mutations.py)|
+|12|[String Split & Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/String%20Split%20%26%20Join/splitjoin.py)|
 
 
 
