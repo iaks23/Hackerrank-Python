@@ -40,6 +40,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |11|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/sWAP%20cASE/swapcase.py)|
 |12|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Mutations/mutations.py)|
 |13|[String Split & Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/String%20Split%20%26%20Join/splitjoin.py)|
+|14|[Intro To Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Intro%20to%20Sets/sets.py)|
+|15|[Capitalize](https://www.hackerrank.com/challenges/capitalize/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Capitalize!/capitalize.py)|
 
 
 
