@@ -42,6 +42,10 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |13|[String Split & Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/String%20Split%20%26%20Join/splitjoin.py)|
 |14|[Intro To Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Intro%20to%20Sets/sets.py)|
 |15|[Capitalize](https://www.hackerrank.com/challenges/capitalize/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Capitalize!/capitalize.py)|
+|16|[Set Add()](https://www.hackerrank.com/challenges/py-set-add/proble7)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20Add()/setAdd.py)|
+|17|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Calendar%20Module/dayofweek.py)|
+|18|[Set Pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20POP()/setPop.py)|
+|19|[Set Union()](https://www.hackerrank.com/challenges/py-set-union/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20Union()/setUnion.py)|
 
 
 
