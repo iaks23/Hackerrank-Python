@@ -46,7 +46,7 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |17|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Calendar%20Module/dayofweek.py)|
 |18|[Set Pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20POP()/setPop.py)|
 |19|[Set Union()](https://www.hackerrank.com/challenges/py-set-union/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20Union()/setUnion.py)|
-
+|20|[String Validators()](https://www.hackerrank.com/challenges/string-validators/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/tree/main/String%20Validators)|
 
 
 ## 🧐 Medium / Intermediate Challenges <a name="medium"></a>
