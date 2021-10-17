@@ -47,6 +47,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |18|[Set Pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20POP()/setPop.py)|
 |19|[Set Union()](https://www.hackerrank.com/challenges/py-set-union/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20Union()/setUnion.py)|
 |20|[String Validators()](https://www.hackerrank.com/challenges/string-validators/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/tree/main/String%20Validators)|
+|21|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/itertools.product()/itertools.py)|
+|22|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/itertools.perm()/permutations.py)|
 
 
 ## 🧐 Medium / Intermediate Challenges <a name="medium"></a>
