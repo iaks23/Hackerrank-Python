@@ -49,7 +49,9 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |20|[String Validators()](https://www.hackerrank.com/challenges/string-validators/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/tree/main/String%20Validators)|
 |21|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/itertools.product()/itertools.py)|
 |22|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/itertools.perm()/permutations.py)|
-
+|23|[collections.counter()](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/collections.Counter()/counter().py)|
+|24|[divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/divmod/divmod.py)|
+|25|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/combinations()/combinations.py)|
 
 ## 🧐 Medium / Intermediate Challenges <a name="medium"></a>
 
