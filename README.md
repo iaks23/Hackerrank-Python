@@ -52,6 +52,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |23|[collections.counter()](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/collections.Counter()/counter().py)|
 |24|[divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/divmod/divmod.py)|
 |25|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/combinations()/combinations.py)|
+|26|[combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/cwr()/cwr.py)|
+|27|[The Captain's Room()](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Captain's%20Room/captainsroom.py)|
 
 ## 🧐 Medium / Intermediate Challenges <a name="medium"></a>
 
