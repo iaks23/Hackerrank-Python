@@ -54,6 +54,15 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |25|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/combinations()/combinations.py)|
 |26|[combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/cwr()/cwr.py)|
 |27|[The Captain's Room()](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Captain's%20Room/captainsroom.py)|
+|28|[Ordered Dict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/OrderedDict()/ordereddict().py)|
+|29|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20Mutations/mutations().py)|
+|30|[Set Intersections](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Set%20Intersection/intersections.py)|
+|31|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Subset()/check_Subset.py)|
+|32|[Check Subset](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Symmetric%20Difference/symdiff.py)|
+|GOLD STAR|GOLD STAR|GOLD STAR|
+|33|[Check Subset](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Symmetric%20Difference/symdiff.py)|
+
+
 
 ## 🧐 Medium / Intermediate Challenges <a name="medium"></a>
 
