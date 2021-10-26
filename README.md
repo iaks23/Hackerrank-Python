@@ -60,7 +60,7 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |31|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Subset()/check_Subset.py)|
 |32|[Check Subset](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Symmetric%20Difference/symdiff.py)|
 |GOLD STAR|GOLD STAR|GOLD STAR|
-|33|[Check Subset](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Symmetric%20Difference/symdiff.py)|
+
 
 
 
@@ -69,6 +69,7 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |SNo|Challenge Name|Solution|
 |---|---|---|
 |1|[Write A Function](https://www.hackerrank.com/challenges/write-a-function/problem)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Write%20A%20Function/leapyear.py)|
+|GOLD STAR|GOLD STAR|GOLD STAR|
 
 
 
