@@ -60,6 +60,8 @@ Solutions to the Python questions available on [HackerRank](https://www.hackerra
 |31|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Subset()/check_Subset.py)|
 |32|[Check Subset](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Symmetric%20Difference/symdiff.py)|
 |GOLD STAR|GOLD STAR|GOLD STAR|
+|33|[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=false)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/Detect%20Floating%20Point/FloatingPoint.py)|
+|34|[Default Dict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)|[View Solution](https://github.com/iaks23/Hackerrank-Python/blob/main/DefaultDict/DefaultDict.py)|
 
 
 
